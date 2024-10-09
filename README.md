@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Spawn
-- 👀 I’m interested in ... Engineering, Art, Comics
-- 🌱 I’m currently learning ... FULL STACK DEVELOPMENT
+- 👀 I’m interested in ... Engineering, Art, Comics, Games
+- 🌱 I’m currently learning ... CODING
 -  I’m looking to collaborate on ... Whatever right now. 
 - 📫 How to reach me ... wolverineadamantium151@gmail.com
 
